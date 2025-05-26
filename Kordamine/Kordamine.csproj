@@ -6,7 +6,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<EnableDefaultMainMethod>false</EnableDefaultMainMethod>
-		<StartupObject></StartupObject>
+		<StartupObject>Kordamine.Startclass</StartupObject>
 		<ApplicationIcon>favicon.ico</ApplicationIcon>
 
 	</PropertyGroup>
